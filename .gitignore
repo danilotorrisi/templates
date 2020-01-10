@@ -1,10 +1,10 @@
 build
 .classpath
 .gitignore
+node_modules
+.DS_Store
 .project
 .gradle
 .idea
 template/java8/**/bin/
 template/java12/**/bin/
-
-template
